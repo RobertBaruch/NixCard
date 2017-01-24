@@ -8,7 +8,8 @@
 // Nixie board CP to Arduino pin 13 (aka SCK)
 //
 // You can daisy-chain a Nixie board's DOUT to the next board's DIN, but
-// all CP, LE and OE pins must be connected to SCK.
+// all CP must be connected to CP, all LE must be connected to LE, and all
+// OE pins must be connected to OE.
 //
 // Also remember to hook up +5V, GND, and +145 - 155 volts.
 
