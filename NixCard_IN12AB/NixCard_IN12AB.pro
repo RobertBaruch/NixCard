@@ -1,4 +1,4 @@
-update=12/2/2017 11:44:29 AM
+update=12/18/2017 9:18:20 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=NixCard
 LibName30=F:/KiCad Projects/QuadLevelShifter/quad_level_shifter
 LibName31=F:/KiCad Projects/russian-nixies
 LibName32=F:/kicad-library/library/microchip
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
